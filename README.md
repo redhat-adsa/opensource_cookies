@@ -4,7 +4,7 @@
 
 Show how anyone can contribute to an project using cookies recipes as the basis instead of code.
 
-### Demo Steps
+### Demo Steps (Facilitator should demo each of these in tool of choice ADO, Github, Bitbucket, Gitlab etc)
 
 | Demo Step              | Description                                                                                                                                                             |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
