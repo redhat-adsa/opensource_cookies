@@ -29,3 +29,7 @@ Perform at least one of the above tasks as demonstrated in the Demonstration.
 ### Example Recipe
 
 [Example Chocolate Chip Cookie Recipe](chocolate_chip.md)
+
+### Demo Step by step with Screen Shots
+
+[AzureDevOps Demo](demos/ado_demo.md)
