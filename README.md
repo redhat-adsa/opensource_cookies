@@ -100,7 +100,6 @@ Here is a template of a recipe for chocolate chip cookies, feel free to make a c
 
 4. Once you are happy with your changes you can put in a request for your changes to be merged into the main branch: ([Source](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
 
-
     a. On GitHub, navigate to the main page of the repository. In the "Branch" menu, choose the branch that contains your commits. ([source](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request))
 
     ![pull_request.png](images/gh_pr1.png)
@@ -113,13 +112,12 @@ Here is a template of a recipe for chocolate chip cookies, feel free to make a c
 
     ![pull request](images/gh_pull_request.png)
 
-6. Merging a pull request into the upstream repository branch: ([Source](https://docs.github.com/en/github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request))
+5. Merging a pull request into the upstream repository branch: ([Source](https://docs.github.com/en/github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request))
 
     a. Under your repository name, click Pull requests.
 
     ![merge.png](images/gh_merge1.png)
 
     b. In the "Pull Requests" list, click the pull request you'd like to merge.
-    
+
     ![merge2.png](images/gh_merge2.png)
-    
