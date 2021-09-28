@@ -45,7 +45,7 @@ Here is a template of a recipe for chocolate chip cookies, feel free to make a c
 
     ![create_epic.png](images/create_epic.png)
 
-2. After you have an Epic you can then create a bug:
+2. After you have an Epic you can then create a bug/feature/issue:
 
     ![create_bug](images/bug.png)
 
@@ -70,3 +70,56 @@ Here is a template of a recipe for chocolate chip cookies, feel free to make a c
 7. Click Complete after your merge was approved and it will be accepted into the main branch:
 
     ![code_review_complete.png](images/code_review_complete.png)
+
+### GitHub Demo Step by step with Screen Shots
+
+1. Create an issue: [Source](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+
+    a. On GitHub, navigate to the main page of the repository. Under your repository name, click Issues.
+
+    ![create_issue.png](images/gh_create_issue.png)
+
+    b. Click New Issue
+
+    ![new_issue_button](images/new_issues_button.png)
+
+    c. Choose if this is a bug report, feature request or tracking issue.
+
+    ![new_issue_getting_started](images/gh_issue_template_get_started_button.png)
+
+    d. Create a title and description for your issue/feature/bug
+    ![sample_issue](images/gh_sample_issue.png)
+
+2. Next you can create a fork of the repository: ([source](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
+
+    ![gh_fork](images/gh_fork_button.jpg)
+
+3. Now that you have a form you can make edits without changing the main repository (for this example we will add celsius directions):
+
+    ![edit_celsius.png](images/gh_edit_celsius.png)
+
+4. Once you are happy with your changes you can put in a request for your changes to be merged into the main branch: ([Source](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
+
+
+    a. On GitHub, navigate to the main page of the repository. In the "Branch" menu, choose the branch that contains your commits. ([source](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request))
+
+    ![pull_request.png](images/gh_pr1.png)
+
+    b. Above the list of files, click Pull request.
+
+    ![pull_request.png](images/gh_pr2.png)
+
+    c. Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+
+    ![pull request](images/gh_pull_request.png)
+
+6. Merging a pull request into the upstream repository branch: ([Source](https://docs.github.com/en/github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request))
+
+    a. Under your repository name, click Pull requests.
+
+    ![merge.png](images/gh_merge1.png)
+
+    b. In the "Pull Requests" list, click the pull request you'd like to merge.
+    
+    ![merge2.png](images/gh_merge2.png)
+    
